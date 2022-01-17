@@ -29,12 +29,16 @@ This graph breaks down the checkout times for users by gender. This graph shows 
 This graphs shows the number of trips per hour for each weekday. The intensity of the color represents the number of rides during those times. This graph clearly shows that the peak use times during the week are for commuting purposes. With highest intensities between 7-9am and 4-7pm on Thursdays and Fridays. It also clearly shows that during weekend days the peak use times are during the daylight hours. This could indicate relevant information on when to conduct maintenance or move bikes around the city. 
 
 
+![Trips by Gender](https://github.com/andreabassetti/bikesharing/blob/main/png/Trips%20by%20Gender.png)
+This graph shows that the peak use times during the week are for commuting purposes. With highest intensities between 7-9am and 4-7pm on Thursdays and Fridays. It shows that Males are responsible for a higher number of rides than females. However, the usage patterns do not vary between genders. 
+
+
 ![User Trips by Gender.](https://github.com/andreabassetti/bikesharing/blob/main/png/User%20Trips%20by%20Gender.png)
 This graphs shows the breakdown of the number of trips by type of user per weekday. It shows that the majority of the rides in general are done by subscribers and not by customers. Males account of a higher number of rides than Female, with a high number of rides almost every day of the week. While customers seem to make up for a low portion of the rides, those rides are concentrated between Thursday and Sunday. 
 
 
 ## Summary:
-The data shows that bike sharing in NYC equally is popular in all areas of Manhattan and Brooklyn. The mean length of rides is between 5-11 minutes, indicating that users use bike sharing for short commutes and not large distances. The checkout times pattern does not vary between Male and female users. The data shows that the most frequent ride times on weekdays are between 7-9am and 4-7pm, and for weekends are between 9am-6pm. Lastly, it was found that the majority of the rides are done by subscribers. 
+The data shows that bike sharing in NYC equally is popular in all areas of Manhattan and Brooklyn. The mean length of rides is between 5-11 minutes, indicating that users use bike sharing for short commutes and not large distances. The checkout times pattern does not vary between Male and female users. The data shows that the most frequent ride times on weekdays are between 7-9am and 4-7pm, and for weekends are between 9am-6pm. The ride times pattern does not vary between Male and female users. Lastly, it was found that the majority of the rides are done by subscribers. 
 The two visualizations I would suggest creating are: 
 - Total ride time per bike id: This would allow you to see which bikes are going to be retired first and how many at once. 
 - Starting and Ending locations by user type: This would allow you to see if the difference (if any) in geographical patterns between customers and subscribers.
