@@ -25,4 +25,12 @@ This graph shows the length of time the bike sharing rides lasted in August 2019
 This graph breaks down the checkout times for users by gender. This graph shows that there is a larger percentage of users that are Male. While the peak length time between genders varies by a couple of minutes the patterns of use as the length of time increases is virtually identical. This shows that the habits of use between genders does not differ. 
 
 
+![Trips by Weekday per Hour](https://github.com/andreabassetti/bikesharing/blob/main/png/Trips%20by%20Weekday%20per%20Hour.png)
+This graphs shows the number of trips per hour for each weekday. The intensity of the color represents the number of rides during those times. This graph clearly shows that the peak use times during the week are for commuting purposes. With highest intensities between 7-9am and 4-7pm on Thursdays and Fridays. It also clearly shows that during weekend days the peak use times are during the daylight hours. This coule indicate relevant information on when to conduct maintanance or move bikes around the city. 
+
+![User Trips by Gender.](https://github.com/andreabassetti/bikesharing/blob/main/png/User%20Trips%20by%20Gender.png)
+This graphs shows the breakdown of the number of trips dy type of user per weekday. It shows that the majority of the rides in general are done by subscribers and not by customers. Males account of a higher number of rides than Female, with a high number of rides almost every day of the week. While customers seem to make up for a low portion of the rides, those rides are concentrated between Thursday and Sunday. 
+
+
 ## Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+The data shows that bike sharing in NYC euqally is popoular in all areas of Manhattan and Brooklyn. The mean length of rides is between 5-11 minutes, indicating that users use bike sharing for short commutes and not large distances. The checkout times pattern does not vary between Male and female users. The data shows that the most frequent ride times on weekdays are between 7-9am and 4-7pm, and for weekends are between 9am-6pm. Lastly, it was foudn that the majority of the rides are done by subscribers. 
