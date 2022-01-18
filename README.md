@@ -9,6 +9,10 @@ The purpose of the analysis is to convince investors that a bike-sharing program
 
 ## Results: 
 
+Tableau Public Story with graphs: [click here](https://public.tableau.com/shared/GTDF3T59M?:display_count=n&:origin=viz_share_link)
+
+
+
 ![Top Starting Locations](https://github.com/andreabassetti/bikesharing/blob/main/png/Top%20Starting%20Locations.png)
 This graph shows all the starting locations of each bike sharing trip. The intensity of the color or the size of the bubble represent the number of rides at each location. As expected, the most popular starting stations are in Manhattan. There is a relatively even spread of popular starting locations, indicating that the bike sharing program is popular in the city as a whole and not in just an area. The count of the rides in Brooklyn are smaller, but nonetheless remain proportional across the area. 
 
